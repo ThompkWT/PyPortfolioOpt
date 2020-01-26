@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+kill
+.spyproject
+__pycache__
+.pyc
+results_local
+portfolio_tracking.xlsx
+.env
+src_log.txt
+*log
+symbolManagement/symbol_data/*
+portfolio_tools/src/ffn/*
+*-workspace
